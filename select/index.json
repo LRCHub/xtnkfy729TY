@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デュエルしようぜ!",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-02-26T02:29:29.818142Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デュエルしようぜ!",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_デュエルしようぜ!_オーイシマサヨシ.txt"
+    }
+  ]
+}
